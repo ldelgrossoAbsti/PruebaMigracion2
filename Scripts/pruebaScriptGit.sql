@@ -1,2 +1,4 @@
 --prueba gitHub 4
 SELECT * FROM POLICY_HIS
+
+SELECT * FROM POLICY 
